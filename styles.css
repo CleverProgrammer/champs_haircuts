@@ -1,0 +1,20 @@
+#myNavBar {
+    background-color: #006495;
+    height: 100px;
+}
+
+#myNavBar a {
+    color: white;
+    height: 100px;
+    line-height: 70px;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+.navbar-nav > li {
+    font-size: 1.1em;
+    margin-left: 20px;
+}
+

@@ -22,4 +22,18 @@
     border-radius: 4px;
 }
 
+.navbar-nav > li:hover {
+    background-color: #0093D1;
+}
+
+.navbar-nav > #bookOnlineLink{
+    background-color: #F4D00C;
+    color: black;
+}
+
+.navbar-nav > #bookOnlineLink > a {
+    color: #004C70;
+    font-weight: bold;
+}
+
 

@@ -40,7 +40,20 @@ body {
     font-weight: bold;
 }
 
-.jumbotron h1 {
-    text-align: center;
+.jumbotron h1 > span{
+    color: #1ABC9C;
+}
+
+#callToActionBtn:hover {
+    background: #1ABC9C;
+    color: white;
+    font-weight: bold;
+}
+
+#callToActionBtn {
+    font-weight: bold;
+    background: white;
+    color: #3d3d3d;
+    border: 2px solid #3d3d3d;
 }
 

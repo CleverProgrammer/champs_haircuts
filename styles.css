@@ -1,3 +1,7 @@
+body {
+    padding-top: 100px;
+}
+
 #myNavBar {
     background-color: #006495;
     height: 100px;
@@ -36,4 +40,7 @@
     font-weight: bold;
 }
 
+.jumbotron h1 {
+    text-align: center;
+}
 
